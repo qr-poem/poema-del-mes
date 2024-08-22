@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/poema-del-mes/static/css/main.1717e99a.css",
+    "main.js": "/poema-del-mes/static/js/main.5cccad4d.js",
+    "static/js/543.fd96ce0d.chunk.js": "/poema-del-mes/static/js/543.fd96ce0d.chunk.js",
+    "static/media/author.png": "/poema-del-mes/static/media/author.e4ceea70c8f1e18c377d.png",
+    "index.html": "/poema-del-mes/index.html",
+    "main.1717e99a.css.map": "/poema-del-mes/static/css/main.1717e99a.css.map",
+    "main.5cccad4d.js.map": "/poema-del-mes/static/js/main.5cccad4d.js.map",
+    "543.fd96ce0d.chunk.js.map": "/poema-del-mes/static/js/543.fd96ce0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1717e99a.css",
+    "static/js/main.5cccad4d.js"
+  ]
+}
